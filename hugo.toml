@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'http:baked.zoefriedlander.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
