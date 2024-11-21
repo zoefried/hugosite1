@@ -1,6 +1,6 @@
-baseURL = 'http:baked.zoefriedlander.com/'
+baseURL = 'https://baked.zoefriedlander.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'After'
 theme = 'ananke'
 
 [params]
