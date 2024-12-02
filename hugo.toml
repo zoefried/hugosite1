@@ -5,3 +5,17 @@ theme = 'ananke'
 
 [params]
 custom_css = ["custom.css"]
+
+[outputs]
+  home = ["HTML", "RSS", "HEADERS"]
+
+[outputFormats.HEADERS]
+  mediaType = "text/plain"
+  baseName = "headers"
+  isPlainText = true
+  notAlternative = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; img-src 'self' data: https://baked.zoefriedlander.com;"
