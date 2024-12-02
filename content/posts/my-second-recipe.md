@@ -4,12 +4,14 @@ draft = false
 title = 'Meyer lemon preserves'
 +++
 
-### Method 1
+## Ingredients
 
-1400 grams Meyer lemons + 2 more lemons\
-8 cups water plus extra for blanching lemons.\
-6 cups sugar\
-Pinch of sea salt
+- 1400 grams Meyer lemons + 2 more lemons
+- 8 cups water plus extra for blanching lemons.
+- 6 cups sugar
+- Pinch of sea salt
+
+### Method 1
 
 Cut off and discard ends of lemons. Cut lemons in half and seed, discard seeds. Cut lemons very thinly. Place in pot and barely cover with water. Bring to boil, boil 5 minutes, drain water and discard.
 Add juice of two lemons plus enough water to make 8 cups and all the sugar and the salt. Boil until the preserves pass the wrinkle test.

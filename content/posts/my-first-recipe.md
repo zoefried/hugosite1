@@ -6,8 +6,10 @@ title = 'Tangerine Preserves'
 
 ![Image alt](/images/jam.jpg)
 
-- 5 lbs of tangerines\
-- enough water to partially cover the sliced tangerines\
+## Ingredients
+
+- 5 lbs of tangerines
+- enough water to partially cover the sliced tangerines
 - 5 cups sugar
 
 1. slice peel-on tangerines into rounds about 1/4 inch thick, removing and saving seeds. (You can discard the top of the peel; also don't use any damaged or dirty peels)
