@@ -4,5 +4,7 @@ draft = false
 title = 'Chair'
 +++
 
-![Image alt](/images/chairafter.jpg)
+{{<gallery>}}
 ![Image alt](/images/chairbefore.jpg)
+![Image alt](/images/chairafter.jpg)
+{{</gallery>}}
