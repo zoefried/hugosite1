@@ -5,3 +5,4 @@ theme = 'ananke'
 
 [params]
 custom_css = ["custom.css"]
+og_image = "images/og-image.jpg"
