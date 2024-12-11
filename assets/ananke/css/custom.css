@@ -44,3 +44,45 @@
 .pb6-l {
   padding-bottom: 1rem;
 }
+
+.site-header {
+  position: relative;
+  background-color: black; /* Adjust as needed */
+  color: white; /* Adjust as needed */
+  text-align: center;
+  min-height: 300px; /* Set a minimum height for the header */
+}
+
+.header-with-banner {
+  position: relative;
+  background-color: black; /* Adjust as needed */
+  color: white; /* Adjust as needed */
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  min-height: 300px; /* Set a minimum height for the header */
+}
+
+.header-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.header-content {
+  position: relative;
+  z-index: 1;
+  padding: 2rem; /* Adjust as needed */
+  color: white; /* Ensure text is visible over the image */
+}
+
+.header-content h1 {
+  font-size: 5rem; /* Increase font size */
+  margin-top: -0.25rem; /* Adjust as needed */
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add text shadow */
+}
+
+.header-content h2 {
+  font-size: 10rem; /* Increase font size */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); /* Add text shadow */
+}
