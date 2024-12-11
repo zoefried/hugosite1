@@ -4,4 +4,6 @@ draft = false
 title = 'Bag For Amie'
 +++
 
+{{<gallery>}}
 ![Image alt](/images/bagforamie.jpg)
+{{</gallery>}}
