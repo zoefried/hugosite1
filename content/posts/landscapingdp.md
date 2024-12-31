@@ -4,4 +4,4 @@ draft = false
 title = 'New Landscaping Dana Point 12/14/2024'
 +++
 
-{{< video src="/videos/landscaping.mp4" width="700" >}}
+{{< video src="/videos/landscaping.mp4" width="800" >}}
