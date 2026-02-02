@@ -25,7 +25,7 @@ title = 'Tangerine Preserves / Marmellata di Mandarini'
 
    **Metti le fette di mandarino e limone in una pentola e aggiungi acqua fino a circa 2 cm dal bordo della frutta.**
 
-1. Put all seeds in cloth or a tea strainer and add to the tangerines
+1. Put all seeds in a piece of cheesecloth that you tie closed, or a tea strainer, and add to the fruit and water mixture. The pectin in the seeds helps the marmalade gel.
 
    **Metti tutti i semi in un sacchetto di garza o in un infusore da tè e aggiungili ai mandarini e limone.**
 
@@ -33,7 +33,7 @@ title = 'Tangerine Preserves / Marmellata di Mandarini'
 
    **Fai bollire per 20 minuti.**
 
-1. Add the sugar and continue to cook until the mixture reaches 220 degrees (may be close to an hour). Stir sometimes while it’s boiling so the bottom doesn’t scorch. As the temperature approaches 220, stir more often to avoid burning. Once 220 degrees is reached, stop cooking.
+1. Add the sugar and continue to cook until the mixture reaches 220 degrees (may be close to an hour). Stir while it’s boiling so the bottom doesn’t scorch. As the temperature approaches 220, stir more often to avoid burning. Once 220 degrees is reached, stop cooking. Remove and discard the container of seeds.
 
    **Aggiungi lo zucchero e continua a cuocere fino a che la miscela raggiunge i 105°C (potrebbe richiedere quasi un’ora). Mescola di tanto in tanto mentre bolle per evitare che si attacchi sul fondo. Man mano che la temperatura si avvicina ai 105°C, mescola più spesso per evitare che bruci. Una volta raggiunti i 105°C, smetti di cuocere.**
 
